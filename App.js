@@ -66,6 +66,7 @@ export default function App() {
             color="grey"
           />
         </View> 
+        
 
     <Text>{"\n"}</Text>
     <View style={{
